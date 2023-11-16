@@ -9,18 +9,31 @@ Ensure you have Node.js and npm installed on your system.
 
 ### Clone the repository:
 
-code ``` git clone https://github.com/your-username/hadith-react-native-app.git ```
+ ``` shell
+ git clone https://github.com/your-username/hadith-react-native-app.git
+
+ ```
 
 ### Navigate to the project directory:
 
-bash ``` cd hadith-react-native-app ```
+```
+ shell cd hadith-react-native-app 
+
+```
 ### Install dependencies:
 
-code ``` npm install ```
+```shell
+
+npm install
+
+```
 
 ### Usage
 
 To start the app, use the following command:
 
-code ``` npx expo start ```
+```shell
+npx expo start
+
+```
 This will launch the Expo development server, and you can choose to run the app on an emulator, simulator, or physical device using the Expo Go app.
