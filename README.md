@@ -13,7 +13,7 @@ code ``` git clone https://github.com/your-username/hadith-react-native-app.git 
 
 ### Navigate to the project directory:
 
-code ``` cd hadith-react-native-app ```
+bash ``` cd hadith-react-native-app ```
 ### Install dependencies:
 
 code ``` npm install ```
